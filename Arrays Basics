@@ -1,4 +1,13 @@
-An Array 
-An array is a collection of one or more values of a same type. 
-Each value in the array is called an Element
+An Array:
+> An array is a collection of one or more values of a same type. 
+> Each value in the array is called an Element
+> Each element will share the same variable name but they have unique index number align to it.
+> Data type of an array can be Int, Float, Char and many more. All the elements inside the array will have the same data type 
+that is assigned to the array. 
+> For example : EmpId[100] can be a arry. Where the first index value of the arry will EmpId[0] and last index value will be EmpId[99]
+  > Empid -- is the array variable and 100 is the index or the subscript value.
+
+Types of Array:
+> Array can be single or multidimentional. 
+  > 
 
