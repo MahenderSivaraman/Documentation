@@ -9,5 +9,24 @@ that is assigned to the array.
 
 Types of Array:
 > Array can be single or multidimentional. 
-  > 
+  > An array with one dimension is called a 1-D array
+  > An array with two dimension is called a two dimension or 2-D array. 
 
+One Dimension Array:
+>Represents as a row where all the elements are stored one after another. 
+  >Syntax : datatype array_name[size];
+  >int age[100];
+  >Float temp[20];
+  >Char ch[50];
+ >When an array is declared, it contains only garbage values. 
+ 
+ Example : 
+ Int my_arr[5];
+ 
+ Int i=0, j=2;
+ my_arr[i]; --> first element
+ my_arr[i+1]; --> second element
+ my_arr[i+j]; --> third element
+ 
+ 
+  
