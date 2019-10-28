@@ -7,7 +7,7 @@ that is assigned to the array.
 > For example : EmpId[100] can be a arry. Where the first index value of the arry will EmpId[0] and last index value will be EmpId[99]
   > Empid -- is the array variable and 100 is the index or the subscript value.
 
-Types of Array:
+Types of Array: [based on C]
 > Array can be single or multidimentional. 
   > An array with one dimension is called a 1-D array
   > An array with two dimension is called a two dimension or 2-D array. 
@@ -27,6 +27,22 @@ One Dimension Array:
  my_arr[i]; --> first element
  my_arr[i+1]; --> second element
  my_arr[i+j]; --> third element
+ 
+ 
+ Two Dimensional array:
+ >Similar to 1-D array, 2-D array use 2 subscripts instead of 1. 
+   > Example : int arr[2][3];
+ the above array can store 2*3 = 6 values/elements.
+ 
+    0     1     2
+ 0  0,0   0,1   0,2
+ 1  1,0   1,1   1,2
+ 
+  >Garbage value will be printed if attempted to print elements out of the array scope. For example arr[0,3]
+ 
+ 
+ 
+ 
  
  
   
