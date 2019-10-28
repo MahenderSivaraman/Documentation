@@ -40,9 +40,14 @@ One Dimension Array:
  
   >Garbage value will be printed if attempted to print elements out of the array scope. For example arr[0,3]
  
- 
- 
- 
+Multidimension Array: 
+> Can create array 3 or more dimensions. 
+Example : int arr[2][3][2];
+Total elements : 2*3*2 = 12
+This is similar to 2 2-D arrays
+
+
+
  
  
   
