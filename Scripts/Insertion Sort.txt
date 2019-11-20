@@ -32,5 +32,5 @@ def insertionSortLoop(arr :Array[Int]) : Array[Int] =
 }
 
 var sorted = insertionSortLoop(arr)
-println("Sorted List -> " + sorted.toString() )
+println("Sorted Array -> " + sorted.toString() )
  
