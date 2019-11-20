@@ -1,0 +1,9 @@
+val arr = Array(4,2,1,7,8,92).sorted
+
+var res : String = "q"
+
+println(arr.mkString(""))
+
+//arr.find(_ == (92)) // finding an element in an array
+
+arr.contains (92)  // finding an element in an array
